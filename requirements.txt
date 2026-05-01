@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+scikit-learn
+numpy
+pandas
+opencv-python
+mediapipe
+librosa
+python-multipart
+pymupdf
+requests
